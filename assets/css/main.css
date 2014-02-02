@@ -209,7 +209,7 @@ hr {
     transition: all .1s ease-in-out;
 }
 #headerwrap {
-    background: url(../img/header-bg1.jpg) no-repeat center top;
+    background: rgba(0,0,0,1);
     margin-top: -10px;
     padding-top: 20px;
     text-align: center;
@@ -229,7 +229,7 @@ hr {
 #headerwrap h1 {
     margin-top: 130px;
     color: #fff;
-    font-size: 140px;
+    font-size: 101px;
     font-weight: 700;
     letter-spacing: 3px;
 }
@@ -244,7 +244,7 @@ hr {
     color: #fff;
 }
 #headerwrap .spacer {
-    margin-top: 220px;
+    margin-top: 10px;
 }
 #mapwrap {
     margin: 0;
@@ -276,7 +276,7 @@ hr {
     margin-top: 150px;
 }
 #aboutwrap {
-    background: url(../img/about-bg.jpg) no-repeat center top;
+    background: url(../img/me.jpg) no-repeat center top;
     margin-top: -10px;
     padding-top: 20px;
     text-align: center;
