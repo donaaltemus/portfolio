@@ -215,7 +215,7 @@ hr {
     text-align: center;
     background-attachment: relative;
     background-position: center center;
-    min-height: 750px;
+    min-height: 600px;
     width: 100%;
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
@@ -353,6 +353,8 @@ hr {
 }
 #portfolio {
     width: 100%}
+    background: url(../img/back.png) no-repeat;
+    background-color: #1abc9c;
 #services {
     background: #1abc9c;
     margin-top: 25px;
@@ -437,6 +439,7 @@ hr {
     margin-left: 15px;
 }
 #cf .container {
+    color: #0984;
     width: 100%}
 #cf .col-lg-8 {
     margin: 0;
