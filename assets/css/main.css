@@ -228,10 +228,12 @@ hr {
 }
 #headerwrap h1 {
     margin-top: 130px;
-    color: #fff;
+    color: none;
     font-size: 101px;
     font-weight: 700;
     letter-spacing: 3px;
+    background: url(../light.jpg) no-repeat center top;
+
 }
 #headerwrap h2 {
     color: #fff;
