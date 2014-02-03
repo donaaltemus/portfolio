@@ -238,6 +238,7 @@ hr {
     font-size: 50px;
     font-weight: 100;
     letter-spacing: 2px;
+    background: url(../light.jpg) no-repeat center top;
 }
 #headerwrap i {
     font-size: 35px;
@@ -301,7 +302,7 @@ hr {
     margin-top: 150px;
 }
 #portwrap {
-    background: url(../img/portfolio-bg.jpg) no-repeat center top;
+    background: url(../img/back.jpg) no-repeat center top;
     margin-top: -10px;
     padding-top: 20px;
     text-align: center;
