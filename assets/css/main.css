@@ -19,6 +19,7 @@ p {
 }
 .centered {
     text-align: center;
+    color: red;
 }
 .goright {
     text-align: right;
