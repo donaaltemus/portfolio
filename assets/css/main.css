@@ -9,7 +9,7 @@ body {
 }
 h1, h2, h3, h4, h5, h6 {
     font-family: Raleway;
-    font-weight: 300;
+    font-weight: 100;
     color: #333;
 }
 p {
@@ -28,7 +28,7 @@ p {
     padding-top: 25px;
 }
 a {
-    color: #16a085;
+    color: #3333FF;
     word-wrap: break-word;
     -webkit-transition: color .1s ease-in, background .1s ease-in;
     -moz-transition: color .1s ease-in, background .1s ease-in;
@@ -230,7 +230,7 @@ hr {
 #headerwrap h1 {
     margin-top: 130px;
     color: none;
-    font-size: 101px;
+    font-size: 50px;
     font-weight: 700;
     letter-spacing: 3px;
     background: url(../light.jpg) no-repeat center top;
@@ -338,7 +338,7 @@ hr {
     color: #fff;
 }
 #sp-standout {
-    background: url(../img/lowback.jpg) no-repeat center top;
+    background: url(../img/teststrip.jpg) no-repeat center top;
     margin-top: 0px;
     padding-top: 0px;
     text-align: center;
