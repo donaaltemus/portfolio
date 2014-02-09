@@ -210,7 +210,8 @@ hr {
     transition: all .1s ease-in-out;
 }
 #headerwrap {
-    background: rgba(0,0,0,1);
+    background: url(../img/green.jpg) no-repeat center top;
+   
     margin-top: -10px;
     padding-top: 20px;
     text-align: center;
