@@ -210,7 +210,7 @@ hr {
     transition: all .1s ease-in-out;
 }
 #headerwrap {
-    background: url(../img/wood.jpg) no-repeat center top;
+    background: url(../img/grey.png) no-repeat center top;
    
     margin-top: -10px;
     padding-top: 20px;
@@ -340,7 +340,7 @@ hr {
     color: #fff;
 }
 #sp-standout {
-    background: url(../img/wood.jpg) no-repeat center top;
+    background: url(../img/grey.jpg) no-repeat center top;
     margin-top: 0px;
     padding-top: 0px;
     text-align: center;
